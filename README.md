@@ -52,7 +52,12 @@ También podemos aplicar estilos básicos de alineación:
  
 <p align="right">
 
-44 Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo esta alineado a la derecha utilizando la propiedad de alineación Este parrafo está alineado a la derecha utilizando la propiedad de alineación
+Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo esta alineado a la derecha utilizando la propiedad de alineación Este parrafo está alineado a la derecha utilizando la propiedad de alineación
+</p> 
+
+<p align="left">
+
+Este párrafo está alineado a la izquierda utilizando la propiedad de alineación Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo esta alineado a la derecha utilizando la propiedad de alineación Este parrafo está alineado a la derecha utilizando la propiedad de alineación
 </p> 
 
 <p align="center">
