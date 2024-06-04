@@ -71,4 +71,26 @@ Este párrafo estará justificado utilizando la propiedad de alineación Este p�
 Si el texto que deseamos enfatizar se encuentra de un párrafo, podemos utilizar algunos trucos para ubicarlos en la documentación
 
 
-wwwww Texto en Negrita (BOLD)
+### Texto en Negrita (BOLD)
+
+Para poner el texto en negrita, este debera ser encerrado entre dobles
+
+Ejemplo:
+
+Texto Texto Texto Texto **Texto Importante Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto**
+
+### Texto en cursiva (ITALIC)
+
+Algunas veces es necesario resaltar algunas secciones o texto en cursiva para que el lector detecte el texto importante, dentro del maquetado con el estan podemos realizar ubicando el texto entre (asteriscos)
+
+Ejemplo:
+
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto *Texto Cursivo* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Tex00to Texto Texto
+
+Texto en negrita y cursiva (BOLD & ITALIC)
+
+De igualmanera podemos unir ambos estilos "Negrita y Cursiva" para resaltar los textos que consideremos importantes dentro de la documentacion de nuestros proyectos de software, utilizando un triple (asterico)
+
+Texto Texto Texto Texto Texto Texto ***Texto en Negrita y Cursiva*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto: Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+
+### Subrayado (UNDERLINE)
