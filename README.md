@@ -94,3 +94,12 @@ De igualmanera podemos unir ambos estilos "Negrita y Cursiva" para resaltar los 
 Texto Texto Texto Texto Texto Texto ***Texto en Negrita y Cursiva*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto: Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
 
 ### Subrayado (UNDERLINE)
+
+Algunas veces necesitaremos subraya texto dentro de la documentación, para ello, si bien markdown no tiene un atajo codificación rápida podemos utilizar el estilo que usa el estándar de HTML usando el tag cins) y cerrando con e
+
+### EJEMPLO:
+ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Tarto Testo Texto Texto Texto Terts
+
+Texto Texto Texto Texto Texto Curstvo" Texto Testo Texto Texto Texto Texto Texto Texto Taste Text Texto Texto Testo
+
+Testo Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins>  Texte Subrayado </ins> Testo
