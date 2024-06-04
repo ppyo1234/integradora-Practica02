@@ -29,4 +29,44 @@ EJEMPLO:
 
 ### 3.Parrafos (PARAGRPAHS)
 son utilizados para presentar grandes secciones de texto que describen detalladamente las secciones de la documentación del proyecto.
-##Ejemplo
+
+## Ejemplo
+
+Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1
+
+Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1.
+Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al parrafo
+
+2 Este texto pertenece al pärrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo
+2 Este texto pertenece al párrafo 2Este texto pertenece al parrafo Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2Este texto pertenece al párrafo 2Este texto pertenece al parrafo 2
+
+Este texto pertenece al párrafo 2Este texto pertenece al párrafo 2Este texto pertenece al párrafo 2
+
+Este texto pertenece al párrafo 2
+
+Lo que en una página utilizarianos usando la etiqueta <P>.
+
+
+También podemos aplicar estilos básicos de alineación:
+ Este párrafo está alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto Este párrafo está alineado a la izquierda por defecto Este párrafo está alineado a la izquierda por defecto Este párrafo está alineado a la izquierda por defecto Este párrafo está alineado a la izquierda por defecto
+ 
+<p align="right">
+
+44 Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo esta alineado a la derecha utilizando la propiedad de alineación Este parrafo está alineado a la derecha utilizando la propiedad de alineación
+</p> 
+
+<p align="center">
+Este párrafo esta centrado usando la propiedad de alineación Este párrafo esta centrado usando la propiedad de alineación Este pärrafo esta centrado usando la propiedad de alineación Este parrafo esta centrado usando la propiedad de alineación Este párrafo esta centrado usando la propiedad de usando la propiedad de alineación Este párrafo esta centrado usando la propiedad de alineacion Ete parrafo esta centrado usando la propiedad de alineación Este párrafo esta centrado usando la propiedad de alineación
+</p>
+
+<p align="justify">
+
+Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estara justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estiara justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este pärrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación
+</p>
+
+### 4. Texto Enfatizado (BOLD, ITALIC, BOLD/ITALIC)
+
+Si el texto que deseamos enfatizar se encuentra de un párrafo, podemos utilizar algunos trucos para ubicarlos en la documentación
+
+
+wwwww Texto en Negrita (BOLD)
