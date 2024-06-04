@@ -102,4 +102,4 @@ Algunas veces necesitaremos subraya texto dentro de la documentación, para ello
 
 Texto Texto Texto Texto Texto Curstvo" Texto Testo Texto Texto Texto Texto Texto Texto Taste Text Texto Texto Testo
 
-Testo Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins>  Texte Subrayado </ins> Testo
+Testo Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins> Texte Subrayado </ins> Testo
