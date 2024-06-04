@@ -77,7 +77,7 @@ Para poner el texto en negrita, este debera ser encerrado entre dobles
 
 Ejemplo:
 
-Texto Texto Texto Texto **Texto Importante Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto**
+Texto Texto Texto Texto **Texto Importante** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
 
 ### Texto en cursiva (ITALIC)
 
