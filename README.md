@@ -185,4 +185,11 @@ Documentación creada por ***José Arturo García González***
 
 ##### 8.Tablas (tables)
 
-Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas 
+Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas , para maquetarlas podemos utilizar el carácter \| para delifitar las columnas y \- oara delimitar las filas .
+
+**ejemplo**
+|Encabezado 1|Encabezado2|Encabezado 3|Encabezado 4|
+|-----------|-----------|-----------|-----------|
+|Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
+|Fila 2 Celda 1|Fila 2 Celda 2|Fila 2 Celda 3|Fila 2 Celda 4|
+|Fila 3 Celda 1|Fila 3 Celda 2|Fila 3 Celda 3|Fila 3 Celda 4|
