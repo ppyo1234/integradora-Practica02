@@ -169,3 +169,20 @@ Si queremos usar un orden que comientce en número especifico debemos utilizar c
  <li>sexto</li>
  <li>Séptimo</li>
 </ol>
+
+#### 7.Ligas ( Hipervínculos)
+Las ligas son utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando los corchetes \[\], inmediatamente despues pondrémos la liga de referencia entre parentesis \( \)
+
+**Ejemplo**
+mi biscador favorito es: [Google](https://google.com).
+
+Pero si deseamos poner solo las ligas directas o un correo electrónico podemos utilizar los simbolos \ < \>
+
+**Ejemplo**
+
+Documentación creada por ***José Arturo García González***
+<230629@utxicotepec.edu.mx>
+
+##### 8.Tablas (tables)
+
+Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas 
