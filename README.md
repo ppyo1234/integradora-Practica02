@@ -130,3 +130,42 @@ También podemos imgresar tectos multinllinea
 
 
 >> C:/Program Files/MySQL/MySQL Server 8.8/bin/mysql -u root -p password < respaldo.sql
+
+##6##
+
+**EJEMPLO:**
+
+
+
+Para crear tu primer repositorio en GitHub deberás:
+
+5. Contar con cuenta de GitHub.
+
+
+1. Dar click en el boton: **Nuevo Repositorio**
+
+
+2. Asignarle un Nombre a tu repositorio, por ejemplo: *practica03-38*
+
+8. Asignarle un nivel de privacidad entre
+
+-**Público:** Si quieres que esté disponible para todos los usuarios.
+
+-**Privado:** Si deseas que solo a quien tu decidas puedan y colaborar con tu proyecto.
+
+
+5. Definir si incluye un archivo de descripción llamado README.md
+
+
+50. Definir si habrá exclusiones de archivo a través del archivo: .gitignore
+
+3. Guardar los cambios.
+
+Si queremos usar un orden que comientce en número especifico debemos utilizar código HTML, usando los tags \<ol> y \<li>:
+
+**Ejemplo**
+<ol start="5">
+ <li>quinto</li>
+ <li>sexto</li>
+ <li>Séptimo</li>
+</ol>
