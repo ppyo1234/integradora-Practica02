@@ -131,7 +131,7 @@ También podemos imgresar tectos multinllinea
 
 >> C:/Program Files/MySQL/MySQL Server 8.8/bin/mysql -u root -p password < respaldo.sql
 
-##6##
+## 6.Listas ordensdas y listas desordenadas ##
 
 **EJEMPLO:**
 
