@@ -103,3 +103,19 @@ Algunas veces necesitaremos subraya texto dentro de la documentación, para ello
 Texto Texto Texto Texto Texto Curstvo" Texto Testo Texto Texto Texto Texto Texto Texto Taste Text Texto Texto Testo
 
 Testo Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins> Texte Subrayado </ins> Testo
+
+
+### 5.Cuadros para Código o reselas (BLOCKQUOTES)
+
+Estos elementos son utilizados oara realizar instrucciones específicas para la instalación, 
+configuración y/o inicialización o mostrar secciones de código fuente. Se maqueta iniciando el texto con un simbolo de mayor que (/>)
+
+**ejemplo**
+Para listar las carpetas y archivos en desde una terminal de sistema operativo Windows debemos ingresar el comando
+
+> C:/dir
+Despué oprimimos la tecla "Enter".
+
+También podemos imgresar tectos multinllinea
+
+**Ejemplo**
