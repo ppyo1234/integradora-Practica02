@@ -119,3 +119,14 @@ Despué oprimimos la tecla "Enter".
 También podemos imgresar tectos multinllinea
 
 **Ejemplo**
+**Pasos para Instalar la Base de Datos:**
+
+>-Descargar MySQL server del sitio oficial
+>-Instalar el Sistema Gestor de Bases de Datos, definiendo el puerto y contraseña para el usuario
+***root***
+>-Descargamos el archivo del respaldo de la base de datos (.sql)
+>-Restauramos la Base de Datos usando el comando "mysql >
+
+
+
+>> C:/Program Files/MySQL/MySQL Server 8.8/bin/mysql -u root -p password < respaldo.sql
