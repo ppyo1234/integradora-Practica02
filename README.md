@@ -201,3 +201,5 @@ En caso de necesitar la fusión de celdas en columnas usaremos oa propiedad *col
 
 ## Imagenes 
 ![](https://github.com/ppyo1234/integradora-Practica02/blob/main/IMG-20240618-WA0000.jpg)
+
+![](https://github.com/ppyo1234/integradora-Practica02/blob/main/IMG-20240618-WA0001.jpg)
