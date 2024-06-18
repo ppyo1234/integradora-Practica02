@@ -229,17 +229,17 @@ En caso de necesitar la fusión de celdas en columnas usaremos oa propiedad *col
         <th>Email</th>
     </tr>
     <tr>
-        <td>Juan Pérez</td>
+        <td>Jose arturo</td>
         <td>30</td>
-        <td>Madrid</td>
+        <td>mexico</td>
         <td>123456789</td>
-        <td>juan@example.com</td>
+        <td>jose@example.com</td>
     </tr>
     <tr>
-        <td>Maria García</td>
+        <td>lisar</td>
         <td>25</td>
-        <td>Barcelona</td>
+        <td>ecuador</td>
         <td>987654321</td>
-        <td>maria@example.com</td>
+        <td>lisar@example.com</td>
     </tr>
 </table>
