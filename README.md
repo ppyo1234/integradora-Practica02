@@ -196,16 +196,6 @@ Si la documentación lo requiere podemos presentar información en formato de ta
 
 En caso de necesitar la fusión de celdas en columnas usaremos oa propiedad *colspan* del tag \<td> y en el caso de necesitar la fusión de filas utilizaremos la propiedad *Rowspan*.
 
-**Ejemplo**
-
-
-## Imagenes 
-![](https://github.com/ppyo1234/integradora-Practica02/blob/main/IMG-20240618-WA0000.jpg)
-
-![](https://github.com/ppyo1234/integradora-Practica02/blob/main/IMG-20240618-WA0001.jpg)
-
-**EJEMPLO:**
-
 |Encabezado 1 |Encabezado 2 |Encabezado 3 |Encabezado 4|
 |-------------|-------------|-------------|------------|
 |Fila 1 Celda 1|Fila 1 Celda 2|Fila 1 Celda 3|Fila 1 Celda 4|
@@ -243,3 +233,14 @@ En caso de necesitar la fusión de celdas en columnas usaremos oa propiedad *col
         <td>lisar@example.com</td>
     </tr>
 </table>
+
+
+**Ejemplo**
+
+
+## Imagenes 
+![](https://github.com/ppyo1234/integradora-Practica02/blob/main/IMG-20240618-WA0000.jpg)
+
+![](https://github.com/ppyo1234/integradora-Practica02/blob/main/IMG-20240618-WA0001.jpg)
+
+
