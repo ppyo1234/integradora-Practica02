@@ -215,3 +215,31 @@ En caso de necesitar la fusión de celdas en columnas usaremos oa propiedad *col
 |              |Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
 |Fila 5 Celda 1|Fila 5 Celda 2|Fila 5 Celda 3|Fila 5 Celda 4|
 
+
+<table border="1">
+    <tr>
+        <th>Nombre</th>
+        <th>Edad</th>
+        <th rowspan="2">Ciudad</th>
+        <th colspan="2">Contacto</th>
+    </tr>
+    <tr>
+        <th colspan="2">Información Adicional</th>
+        <th>Teléfono</th>
+        <th>Email</th>
+    </tr>
+    <tr>
+        <td>Juan Pérez</td>
+        <td>30</td>
+        <td>Madrid</td>
+        <td>123456789</td>
+        <td>juan@example.com</td>
+    </tr>
+    <tr>
+        <td>Maria García</td>
+        <td>25</td>
+        <td>Barcelona</td>
+        <td>987654321</td>
+        <td>maria@example.com</td>
+    </tr>
+</table>
