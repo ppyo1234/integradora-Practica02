@@ -113,23 +113,15 @@ configuración y/o inicialización o mostrar secciones de código fuente. Se maq
 **ejemplo**
 Para listar las carpetas y archivos en desde una terminal de sistema operativo Windows debemos ingresar el comando
 
-> C:/dir
-Despué oprimimos la tecla "Enter".
+> - Descargar MySQL Server del Sitio Oficial.
+> - Instalar el Sistema Gestor de Base de Datos, definiendo el puerto y contraseña para el usuario *root*.
+> - Descargamos el archivo de respaldo de la base de datos (sql).
+> - Restauramos la base de datos usando el comando * mysql *
 
-También podemos imgresar tectos multinllinea
-
-**Ejemplo**
-**Pasos para Instalar la Base de Datos:**
-
->-Descargar MySQL server del sitio oficial
->-Instalar el Sistema Gestor de Bases de Datos, definiendo el puerto y contraseña para el usuario
-***root***
->-Descargamos el archivo del respaldo de la base de datos (.sql)
->-Restauramos la Base de Datos usando el comando "mysql >
+> C:/Program Files/MySQL Server 8.0/bin/mysql -u root -p password < respaldo.sql
 
 
 
->> C:/Program Files/MySQL/MySQL Server 8.8/bin/mysql -u root -p password < respaldo.sql
 
 ## 6.Listas ordensdas y listas desordenadas ##
 
